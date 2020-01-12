@@ -1,0 +1,5 @@
+{
+"$class" : "org.example.empty.registrar",
+"rname": "komal",
+"remail" :"komal@gmail.com"
+}
