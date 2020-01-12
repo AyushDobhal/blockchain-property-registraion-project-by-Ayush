@@ -1,0 +1,5 @@
+{ 
+"$class": "org.example.empty.created";
+"PID":"2",
+"cproperty";"resource:org.example.empty.property#1"
+}
