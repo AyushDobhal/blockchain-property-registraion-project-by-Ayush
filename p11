@@ -1,0 +1,7 @@
+{ 
+"$class":"org.example.empty.intentsale",
+"property":
+"propertylisting": "resources:org.example.empty.property#1"'
+"buyer":"resources:org.example.empty.propertylisting#2",
+"seller": "resource:org.example.empty.seller#harshull"
+}
