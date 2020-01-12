@@ -1,0 +1,11 @@
+{ 
+"$class";"org.example.empty.buyer",
+"bname":"romika",
+"bemail":"romika@gmail.com,
+"adhar":1234567788
+"bankname":"canara bank"
+"bankaddress":"janak puri"
+"accno": 1765488478969876,
+"ifsccode":rjgbkg486u46096
+"bbalance":40000
+}
