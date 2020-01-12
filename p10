@@ -1,0 +1,8 @@
+{ 
+"$class": "org.example.empty.intentforsale"
+"property": "resource;org.example.empty.property#2",
+"propertylisting"
+"resource:org.example.empty.propertylisting#9160",
+"buyer": "resource :org.example.empty.buyerromika",
+"seller":"resources:org.example.empty.seller#mayank"
+}
