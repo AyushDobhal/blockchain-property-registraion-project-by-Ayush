@@ -1,0 +1,11 @@
+{ 
+"$class": "org.example.empty.[roperty",
+"PID" : "1",
+"owner" : "harshul",
+"mktprice" : 1000,
+"registrationdate" : "12-7-2018",
+"location": "vikas puri"
+"intentforsale"= true,
+"public" : true,
+"private" : false
+}
